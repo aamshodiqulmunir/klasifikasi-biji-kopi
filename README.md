@@ -6,4 +6,5 @@ Sistem klasifikasi biji kopi merupakan program yang dikembangkan untuk melakukan
 
 Oleh : 
 Aam Shodiqul Munir
+
 Samarinda, 26 Mei 2023
